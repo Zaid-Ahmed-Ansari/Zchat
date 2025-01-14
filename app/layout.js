@@ -17,10 +17,7 @@ export const metadata = {
 };
 import {
   ClerkProvider,
-  SignInButton,
-  SignedIn,
-  SignedOut,
-  UserButton
+  
 } from '@clerk/nextjs'
 import Navbar from "./Navbar";
 import './globals.css'

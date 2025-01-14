@@ -6,7 +6,7 @@ import { AiOutlineWechatWork } from "react-icons/ai";
 import { UserButton } from "@clerk/nextjs";
 // import{useUser} from '@clerk/nextjs'
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(false);
+  
  
   
   

@@ -27,7 +27,7 @@ import './globals.css'
 
 export default function RootLayout({ children }) {
   return (
-    <ClerkProvider>
+    <ClerkProvider publishableKey="pk_test_bGl2aW5nLXNvbGUtNzcuY2xlcmsuYWNjb3VudHMuZGV2JA">
     <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
